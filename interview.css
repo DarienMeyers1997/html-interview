@@ -1,0 +1,52 @@
+.container {
+    height: auto;
+    width: auto;
+    background-color: bisque;
+}
+
+
+
+
+.div1 {
+    padding: 25px;
+}
+
+.div2 {
+    padding: 25px;
+}
+
+.div3 {
+    padding: 25px;
+}
+
+
+
+
+.header{
+    border: 2px solid blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+.li {
+    margin: 25px;
+    font-style: italic;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Toomer{
+    height: 350px;
+    margin: 50px;
+}
+
+.Morel{
+    height: 350px;
+    margin: 50px;
+}
+
+
+.Meyers{
+    height: 350px;
+    margin: 50px;
+}
